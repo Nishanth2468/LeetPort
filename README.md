@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishanth2468/LeetPort/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1528-shuffle-string](https://github.com/Nishanth2468/LeetPort/tree/master/1528-shuffle-string) |
 ## String Matching
 |  |
 | ------- |
@@ -27,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nishanth2468/LeetPort/tree/master/0189-rotate-array) |
+| [1528-shuffle-string](https://github.com/Nishanth2468/LeetPort/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
